@@ -12,7 +12,7 @@ export default function Home() {
      <br />
      <br />
      <br />
-     <br />
+     <br /> 
      <br />
      <h1>Ejercicio 2</h1>
     <Cola />
